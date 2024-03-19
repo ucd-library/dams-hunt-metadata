@@ -46,7 +46,7 @@
   "schema:description": "Thomas Forsyth Hunt (1862-1927) served as Professor of Agriculture at the University of California, Berkeley and Dean of the College of Agriculture (now the University of California, Davis). His Papers contain a comparative study of the agriculture of Caribbean countries and a collection of photographs depicting agricultural methods in Jamaica, Hawaii, Haiti, Cuba, El Salvador, Panama, and Costa Rica, circa 1924-1925. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt2s2025qv/).",
   "schema:identifier": "D-104",
   "schema:image": {
-    "@id": "info:fedora/item/ark:/87293/d37r06/D104_1_44.jpg"
+    "@id": "info:fedora/item/ark:/87293/d37r06/D104_1_44.tif"
   },
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt2s2025qv/"
