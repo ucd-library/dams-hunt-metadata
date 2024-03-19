@@ -1,0 +1,36 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0801355",
+    "http://schema.org/name": "Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205135",
+    "http://schema.org/name": "Haiti"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205604",
+    "http://schema.org/name": "Costa Rica"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205805",
+    "http://schema.org/name": "Cuba"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1211575",
+    "http://schema.org/name": "Jamaica"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1244080",
+    "http://schema.org/name": "Caribbean Area"
+  }
+]

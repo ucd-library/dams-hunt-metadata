@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1244080"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423874"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0801355"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205135"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205805"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205604"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1211575"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "Thomas Forsyth Hunt (1862-1927) served as Professor of Agriculture at the University of California, Berkeley and Dean of the College of Agriculture (now the University of California, Davis). His Papers contain a comparative study of the agriculture of Caribbean countries and a collection of photographs depicting agricultural methods in Jamaica, Hawaii, Haiti, Cuba, El Salvador, Panama, and Costa Rica, circa 1924-1925. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt2s2025qv/).",
+  "schema:identifier": "D-104",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d37r06/D104_1_44.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt2s2025qv/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Hunt (Thomas Forsyth) Papers",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}
